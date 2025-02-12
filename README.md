@@ -5,7 +5,7 @@ This project covers API and UI automation for different applications.
 It is written on Python and Behave, UI check uses Selenium for Web
 API part covers by Python requests
 
-
+Before the run, please make sure Fin Excange app is running on port 8080
 ## Get Started with Docker:
 Make sure you have Docker running on your machine
 #### Build the project via docker:
